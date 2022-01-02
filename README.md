@@ -1,7 +1,7 @@
 # connectfour
 Connect four playable in console
 
-Property of Sage L Mahmud (https://github.com/CactusDuud)
+Property of Sage L Mahmud (@CactusDuud, https://github.com/CactusDuud)
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
